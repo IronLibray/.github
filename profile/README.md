@@ -123,7 +123,7 @@ Cada servicio incluye testing integral:
 - **Tests End-to-End**: Flujos completos de microservicios
 
 ### Colección de Postman
-Importa nuestra suite completa de tests: [Descargar Colección](link-to-postman-collection)
+Importa nuestra suite completa de tests: [Iron Library Test Suite](https://github.com/IronLibray/postman-collection)
 
 ## 🎯 Características Principales
 
