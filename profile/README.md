@@ -296,6 +296,10 @@ MYSQL_PASSWORD=root
 - Book Service: 8081
 - Loan Service: 8083
 
+## Enlaces adicionales
+- [Trello](https://trello.com/b/mRM2nCLx/ironlibrary)
+- [Presentación](https://www.canva.com/design/DAGnUrNjmgs/OPzWvHMt_hUq4IYy_vOZfw/view?utm_content=DAGnUrNjmgs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47650c0149)
+
 ## 🤝 Contribución
 
 Este proyecto es parte de una iniciativa de aprendizaje de arquitectura de microservicios. Cada servicio se desarrolla y mantiene de forma independiente.
