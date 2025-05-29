@@ -253,6 +253,7 @@ note top of Gateway : Punto de entrada único
 note top of Eureka : Descubrimiento de servicios
 @enduml
 ```
+![Diagrama UML](img.png)
 
 ## 📊 Estado del Proyecto
 
