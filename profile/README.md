@@ -299,7 +299,7 @@ MYSQL_PASSWORD=root
 
 ## Enlaces adicionales
 - [Trello](https://trello.com/b/mRM2nCLx/ironlibrary)
-- [Presentación](https://www.canva.com/design/DAGnUrNjmgs/OPzWvHMt_hUq4IYy_vOZfw/view?utm_content=DAGnUrNjmgs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h47650c0149)
+- [Presentación](https://www.canva.com/design/DAGo1uvvZo8/BrLWajSdvTJ9ziYHY5lbTg/view?utm_content=DAGo1uvvZo8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h24b2f4b309)
 
 ## 🤝 Contribución
 
